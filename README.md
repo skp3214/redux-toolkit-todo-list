@@ -1,4 +1,4 @@
-
+![Screenshot (816)](https://github.com/skp3214/redux-toolkit-todo-list/assets/95349420/feb6aebc-06f2-4437-957f-3c799cf25fd6)
 ---
 
 # TodoList 
@@ -12,6 +12,13 @@ TodoList is a simple and efficient task management application built with React 
 - **Update Todo**: Edit the text of existing tasks.
 - **Toggle Completed**: Mark tasks as completed or incomplete.
 - **Persistent Storage**: Automatically saves and loads todos from `localStorage`.
+
+## Project Preview
+![Screenshot (811)](https://github.com/skp3214/redux-toolkit-todo-list/assets/95349420/6db502fd-67df-43b8-9617-0fec2ebc5a42)
+![Screenshot (812)](https://github.com/skp3214/redux-toolkit-todo-list/assets/95349420/487fd238-cc33-4576-893a-a59d3d14474e)
+![Screenshot (816)](https://github.com/skp3214/redux-toolkit-todo-list/assets/95349420/ddbdcd10-e221-4e45-9b87-9c2db3275982)
+![Screenshot (817)](https://github.com/skp3214/redux-toolkit-todo-list/assets/95349420/35af7bd7-655f-45f7-882d-98908351a043)
+
 
 ## Getting Started
 
