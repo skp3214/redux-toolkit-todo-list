@@ -1,4 +1,3 @@
-![Screenshot (816)](https://github.com/skp3214/redux-toolkit-todo-list/assets/95349420/feb6aebc-06f2-4437-957f-3c799cf25fd6)
 ---
 
 # TodoList 
